@@ -1,0 +1,6 @@
+*.class
+testing.txt
+training.txt
+*.jar
+docs/
+*.pdf
